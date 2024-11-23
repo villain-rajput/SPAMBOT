@@ -1,5 +1,8 @@
 <h1 align="center"><b>[✨🥀] ˹𝕆𝕩𝕪𝕘𝕖𝕟 ꭙ 𝕊𝕡𝕒𝕞˼🫧 [✨🥀]</b></h1>
 
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/villain-rajput/SPAMBOT&branch=main&name=viber_spam)
+
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
 [<img src="https://telegra.ph/file/6c32d6bff1244f0972640.jpg"/>]
